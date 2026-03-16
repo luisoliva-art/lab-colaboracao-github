@@ -1,1 +1,1 @@
-# lab-colaboração-github
+# lab_colaboração_github
